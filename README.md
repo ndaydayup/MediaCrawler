@@ -235,13 +235,6 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
 		</tr>
 		<tr>
             <td align="center">
-                <a href="https://github.com/Tianci-King">
-                    <img src="https://avatars.githubusercontent.com/u/109196852?v=4" width="100;" alt="Tianci-King"/>
-                    <br />
-                    <sub><b>Wang Tianci</b></sub>
-                </a>
-            </td>
-            <td align="center">
                 <a href="https://github.com/ZhouXsh">
                     <img src="https://avatars.githubusercontent.com/u/131248181?v=4" width="100;" alt="ZhouXsh"/>
                     <br />
@@ -267,6 +260,13 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
                     <img src="https://avatars.githubusercontent.com/u/19848304?v=4" width="100;" alt="chunpat"/>
                     <br />
                     <sub><b>zhangzhenpeng</b></sub>
+                </a>
+            </td>
+            <td align="center">
+                <a href="https://github.com/ndaydayup">
+                    <img src="https://avatars.githubusercontent.com/u/57930928?v=4" width="100;" alt="ndaydayup"/>
+                    <br />
+                    <sub><b>ndaydayup</b></sub>
                 </a>
             </td>
             <td align="center">
@@ -307,12 +307,21 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
                 </a>
             </td>
             <td align="center">
+                <a href="https://github.com/Tianci-King">
+                    <img src="https://avatars.githubusercontent.com/u/109196852?v=4" width="100;" alt="Tianci-King"/>
+                    <br />
+                    <sub><b>Wang Tianci</b></sub>
+                </a>
+            </td>
+            <td align="center">
                 <a href="https://github.com/Styunlen">
                     <img src="https://avatars.githubusercontent.com/u/30810222?v=4" width="100;" alt="Styunlen"/>
                     <br />
                     <sub><b>Styunlen</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/Schofi">
                     <img src="https://avatars.githubusercontent.com/u/33537727?v=4" width="100;" alt="Schofi"/>
@@ -320,8 +329,6 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
                     <sub><b>Schofi</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/Klu5ure">
                     <img src="https://avatars.githubusercontent.com/u/166240879?v=4" width="100;" alt="Klu5ure"/>
@@ -357,6 +364,8 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
                     <sub><b>AuYeung</b></sub>
                 </a>
             </td>
+		</tr>
+		<tr>
             <td align="center">
                 <a href="https://github.com/522109452">
                     <img src="https://avatars.githubusercontent.com/u/16929874?v=4" width="100;" alt="522109452"/>
@@ -364,8 +373,6 @@ dy和xhs使用Playwright登录现在会出现滑块验证 + 短信验证，手�
                     <sub><b>tianqing</b></sub>
                 </a>
             </td>
-		</tr>
-		<tr>
             <td align="center">
                 <a href="https://github.com/3DRX">
                     <img src="https://avatars.githubusercontent.com/u/67278980?v=4" width="100;" alt="3DRX"/>
